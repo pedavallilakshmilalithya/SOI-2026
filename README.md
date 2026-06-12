@@ -33,7 +33,6 @@ print(a+b)
 
 [Google](https://www.google.com/)
 
-![Image]
-https://tse4.mm.bing.net/th/id/OIP.9-y9f-5KZv1AoofOPtEwEAHaHV?pid=Api&P=0&h=180
+![Image](https://tse4.mm.bing.net/th/id/OIP.9-y9f-5KZv1AoofOPtEwEAHaHV?pid=Api&P=0&h=180.jpg)
 
 
