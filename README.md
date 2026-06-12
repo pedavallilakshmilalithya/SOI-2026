@@ -13,4 +13,6 @@ Summer Online Internship Repository
 
 ***Bold Italic***
 
--strike through-
+~~AWS~~ Amazon Web Services
+
+Lalithya <sub>VVIT</sub>
