@@ -46,6 +46,11 @@ Unorder List
 Grateful[^1]
 Sorrowfull[^2]
 
+- [ ] Option 1
+- [ ] Option 2
+- [ ] Option 3
+
+
 ------------
 [^1]:Thankful
 [^2]:Sadness
