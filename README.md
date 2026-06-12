@@ -16,3 +16,5 @@ Summer Online Internship Repository
 ~~AWS~~ Amazon Web Services
 
 Lalithya <sub>VVIT</sub>
+
+(a+b)<sup>2</sup>
