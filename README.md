@@ -46,9 +46,16 @@ Unorder List
 Grateful[^1]
 Sorrowfull[^2]
 
-- [ ] Option 1
+- [X] Option 1
 - [ ] Option 2
 - [ ] Option 3
+
+Table
+
+Name|College|Department
+|----|----|----|
+Lalithya|VVIT|CSE
+|----|----|----|
 
 
 ------------
