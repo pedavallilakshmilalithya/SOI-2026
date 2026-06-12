@@ -56,7 +56,7 @@ Name|College|Department
 |----|----|----|
 Lalithya|VVIT|CSE
 |----|----|----|
-
+Bharani|Malineni|CSE
 
 ------------
 [^1]:Thankful
