@@ -25,9 +25,14 @@ Lalithya <sub>VVIT</sub>
 
 This is the `git commands` markdown script
 
----
+```
 a=1
 b=2
 print(a+b)
+```
 
----
+[Google](https://www.google.com/)
+
+
+
+
