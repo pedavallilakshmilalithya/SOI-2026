@@ -18,3 +18,6 @@ Summer Online Internship Repository
 Lalithya <sub>VVIT</sub>
 
 (a+b)<sup>2</sup>
+
+<u>Underline</u> or <ins>Underline</ins>
+
